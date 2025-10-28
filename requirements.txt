@@ -57,3 +57,6 @@ plotly>=5.10.0
 
 # ML Model Persistence
 pickle-mixin>=1.0.2
+
+# Production Server
+gunicorn>=20.1.0
