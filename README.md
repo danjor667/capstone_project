@@ -2,6 +2,8 @@
 
 > **Live Demo**: [https://capstone-web-5i4r.onrender.com/](https://capstone-web-5i4r.onrender.com/)
 > 
+> **Video Presentation**: [https://www.loom.com/share/afcaa53764a34c4882b647bd6feae824](https://www.loom.com/share/afcaa53764a34c4882b647bd6feae824)
+> 
 > **Frontend Repository**: The frontend part of this project is available at [https://github.com/danjor667/capstone_web.git](https://github.com/danjor667/capstone_web.git)
 
 ### Frontend Setup
